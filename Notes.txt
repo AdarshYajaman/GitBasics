@@ -44,3 +44,8 @@ git pull /* Pull changes from remote repo
 ssh-keygen
 
 git remote add origin <remote repo URL>
+
+/Reading needed/
+git reset soft, git reset mixed, and git reset hard.  
+
+vim .gitconfig

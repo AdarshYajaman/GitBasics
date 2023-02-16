@@ -26,3 +26,5 @@ git commit -m "commit message here"
 git branch /* list of branchefa-spin
 
 git branch <branchName> /* create a branch
+
+git diff <fileName> /* check file diff

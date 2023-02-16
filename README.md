@@ -12,13 +12,13 @@ git init  /*Initialize
 
 git status /*check status
 
-git add <fileName> /*stage files
+git add $fileName$ /*stage files
 
-git rm --cached <fileName> /* UnStage files
+git rm --cached $fileName$ /* UnStage files
 
 or
 
-git restore --staged <filename> /* UnStage files
+git restore --staged $filename$ /* UnStage files
 
 git log /* list of commits
 
@@ -28,11 +28,11 @@ git branch /* list of branches
 
 git branch $branchName$ /* create a branch
 
-git checkout <<branchName>> /* Switch to a new branch
+git checkout $branchName$ /* Switch to a new branch
 
-git diff <<fileName>> /* check file diff
+git diff $fileName$ /* check file diff
 
-git merge <<sourceBranchName>> /*This merges source branch to destination. The destination branch has to be checkedout first before making this change
+git merge $sourceBranchName$ /*This merges source branch to destination. The destination branch has to be checkedout first before making this change
 
 git tag -a V1.0.0 -m "Created Version 1.0.0"
 

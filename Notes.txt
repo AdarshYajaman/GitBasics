@@ -1,0 +1,20 @@
+git config --global user.name "adarsh yajaman"
+
+git config --global user.email "rulz.adarsh@gmail.com"
+
+git config user.name
+
+git config user.email
+
+git init  /*Initialize 
+
+git status /*check status
+
+git add <fileName> /*stage files
+
+git rm --cached <fileName> /* UnStage files
+
+or
+
+git restore --staged <filename> /* UnStage files
+<i class="fa fa-qq" aria-hidden="true"></i>

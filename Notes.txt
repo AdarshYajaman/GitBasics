@@ -31,3 +31,5 @@ git checkout <branchName> /* Switch to a new branch
 git diff <fileName> /* check file diff
 
 git merge <sourceBranchName> /*This merges source branch to destination. The destination branch has to be checkedout first before making this change
+
+git tag -a V1.0.0 -m "Created Version 1.0.0"

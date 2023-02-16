@@ -26,7 +26,7 @@ git commit -m "commit message here"
 
 git branch /* list of branches
 
-git branch <<branchName>> /* create a branch
+git branch <<<branchName>>> /* create a branch
 
 git checkout <<branchName>> /* Switch to a new branch
 

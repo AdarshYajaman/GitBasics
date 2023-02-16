@@ -33,3 +33,14 @@ git diff <fileName> /* check file diff
 git merge <sourceBranchName> /*This merges source branch to destination. The destination branch has to be checkedout first before making this change
 
 git tag -a V1.0.0 -m "Created Version 1.0.0"
+
+
+Bit bucket password - ATBBPT64PLcUmDXWtVT7zayRDfepB32040F2
+
+git push origin master /* Push local changed to remote repo
+
+git pull /* Pull changes from remote repo
+
+ssh-keygen
+
+git remote add origin <remote repo URL>
